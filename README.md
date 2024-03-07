@@ -4,4 +4,4 @@ This repository contains Java code I wrote while taking a Udemy course in Arabic
 
 ## Course Link
 
-[Udemy Course: Java Fundamentals](https://www.udemy.com/share/102YmM/)
+[The Java Learning Guide](https://www.udemy.com/share/102YmM/)
